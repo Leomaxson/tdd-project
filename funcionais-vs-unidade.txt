@@ -1,0 +1,14 @@
+Testes de unidade são utilizados para verificar procedimentos, funções e classes 
+individuais da aplicação. São testes do tipo caixa-branca.
+Eles auxiliam da seguinte forma:
+- Detecção de bugs durante o desenvolvimento.
+- Dificultando a regressão de código (alterações que criam novos bugs no código).
+- São uma forma de documentação das classes.
+
+Já os testes funcionais são testes de caixa-preta. Eles verificam o software ou 
+sistema de uma forma mais global, do ponto de vista do usuário. Englobam 
+inclusive testes de aceitação, feitos pelo próprio usuário.
+Eles auxiliam da seguinte forma:
+- Testes para verificar se os requisitos da aplicação foram atendidos.
+- Testes para verificar se uma nova funcionalidade está funcionando corretamente.
+- São uma forma de validação do sistema ou software.
